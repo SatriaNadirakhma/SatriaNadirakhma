@@ -1,4 +1,4 @@
-https://github.com/SatriaNadirakhma/SatriaNadirakhma/blob/main/Banner.png
+![Banner] https://github.com/SatriaNadirakhma/SatriaNadirakhma/blob/main/Banner.png
 
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
