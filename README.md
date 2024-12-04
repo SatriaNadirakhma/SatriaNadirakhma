@@ -1,4 +1,4 @@
-![Banner] https://github.com/SatriaNadirakhma/SatriaNadirakhma/blob/main/Banner.png
+![This is Banner](https://github.com/SatriaNadirakhma/SatriaNadirakhma/blob/main/Banner.png)
 
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
