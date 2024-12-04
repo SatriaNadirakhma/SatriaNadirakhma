@@ -1,3 +1,5 @@
+https://github.com/SatriaNadirakhma/SatriaNadirakhma/blob/main/Banner.png
+
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
 I'm a **UI Designer** and **Front-End Enthusiast**.  
