@@ -2,7 +2,7 @@
 
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
-I'm a **UI Designer** and **Front-End Enthusiast**.
+I'm an **UI Designer** and **Front-End Enthusiast**, actually I also **Digital Design Master**.
 I will create and combine design and programme, making a beautiful piece of work in the form of an app.
 
 Happy to see you, guys! 😁
