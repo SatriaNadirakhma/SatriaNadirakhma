@@ -2,33 +2,80 @@
 
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
-I'm an **UI Designer** and **Front-End Enthusiast**, actually I also **Digital Design Master**.
-I will create and combine design and programme, making a beautiful piece of work in the form of an app.
 
-Happy to see you, guys! 😁
+I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong background in digital design. I specialize in creating seamless user experiences and visually appealing interfaces by combining design principles with modern programming technologies.
 
 ---
 
-## 🛠️ Skill Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</p>
+## 📈 GitHub Stats & Contribution Streak
 
-## 🎨 Skill Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriaNadirakhma&show_icons=true&theme=radical" alt="SatriaNadirakhma's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaNadirakhma&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
 
-## 📂 My Portfolio
+## 🧑‍💼 Professional Summary
+
+- 3+ years of experience in UI/UX design and front-end development.
+- Skilled in translating business requirements into engaging digital products.
+- Adept at collaborating with cross-functional teams to deliver high-quality solutions.
+- Strong attention to detail and a commitment to continuous learning.
+
+---
+
+## 🛠️ Programming Skills
+
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="background:#222; border-radius:8px; padding:4px; filter:invert(1);"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="background:#222; border-radius:8px; padding:4px; filter:invert(1);"/></a>
+</p>
+
+---
+
+## 🎨 Design Skills
+
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://inkscape.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://www.coreldraw.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" alt="CorelDRAW" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+</p>
+
+---
+
+## 💼 Experience
+
+- **UI/UX Designer & Front End Developer** from Project Based Learning **Sistem Tata Tertib** (September 2024–December 2024)  
+  Designing and prototyping user interfaces for web applications.
+
+- **Project Manager, UI/UX Designer & Full Stack Developer** from Project Based Learning **Sistem Informasi Pendaftaran TOEIC** (March 2025–Juny 2025)  
+  Developed a responsive web-based TOEIC registration system, managed project timelines, designed user interfaces, and implemented both front-end and back-end features in collaboration with a multidisciplinary team.
+
+---
+
+## 📜 Certifications
+
+- Flutter Basic for Beginners (2025)
+
+---
+
+## 📂 Portfolio & Contact
+
 - [Instagram (Design Portfolio)](https://instagram.com/nadirakhma.svg)  
 - [Behance](https://www.behance.net/rakhmanadi2005)  
+- [LinkedIn](https://linkedin.com/in/satria-rakhmadani/) <!-- Tambahkan jika ada -->
+- 📧 Email: rakhmadanisatria@gmail.com
+- 📧 Email: nadirakhmacom@gmail.com (For Business)
 
 ---
 
-## 🌐 My Social Media
-- [Instagram (Daily)](https://instagram.com/rkhmdn.satria)  
+> _"Design is not just what it looks like and feels like. Design is how it works."_ – Steve Jobs
