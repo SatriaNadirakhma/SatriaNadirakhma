@@ -31,7 +31,7 @@ I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong back
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
   <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
@@ -46,9 +46,9 @@ I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong back
 <p align="left">
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
   <a href="https://inkscape.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.coreldraw.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" alt="CorelDRAW" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/></a>
+  <a href="https://www.coreldraw.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" alt="CorelDRAW" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
 </p>
 
 ---
