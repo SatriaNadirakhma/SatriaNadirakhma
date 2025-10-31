@@ -28,14 +28,17 @@ I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong back
 ## 🛠️ Programming Skills
 
 <p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="background:#222; border-radius:8px; padding:4px; filter:invert(1);"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="background:#222; border-radius:8px; padding:4px; filter:invert(1);"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" aria-label="Bootstrap"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"alt="Bootstrap" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" aria-label="Tailwind CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"alt="Tailwind CSS" width="40" height="40" /></a>
 </p>
 
 ---
@@ -43,16 +46,15 @@ I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong back
 ## 🎨 Design Skills
 
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://inkscape.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
-  <a href="https://www.coreldraw.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coreldraw.svg" alt="CorelDRAW" width="40" height="40" style="background:#222; border-radius:8px; padding:4px;"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://inkscape.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/></a>
+  <a href="https://www.framer.com" target="_blank" rel="noopener noreferrer"><img src="https://example.com/framer-logo.svg" alt="Framer" width="40" height="40" /></a>
 </p>
 
 ---
 
-## 💼 Experience
+## 💼 Project
 
 - **UI/UX Designer & Front End Developer** from Project Based Learning **Sistem Tata Tertib** (September 2024–December 2024)  
   Designing and prototyping user interfaces for web applications.
