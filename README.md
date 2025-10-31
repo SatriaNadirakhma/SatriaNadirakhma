@@ -3,7 +3,7 @@
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
 
-I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong background in digital design. I specialize in creating seamless user experiences and visually appealing interfaces by combining design principles with modern programming technologies.
+I'm a passionate **Graphic Designer** and **Front-End Developer** with a strong background in digital design. I specialize in creating seamless user experiences and visually appealing interfaces by combining design principles with modern programming technologies.
 
 ---
 
@@ -18,7 +18,8 @@ I'm a passionate **UI Designer** and **Front-End Enthusiast** with a strong back
 
 ## 🧑‍💼 Professional Summary
 
-- 3+ years of experience in UI/UX design and front-end development.
+- 3+ years of experience in Graphic Design
+- 1+ years of experience in Front-End Developer
 - Skilled in translating business requirements into engaging digital products.
 - Adept at collaborating with cross-functional teams to deliver high-quality solutions.
 - Strong attention to detail and a commitment to continuous learning.
