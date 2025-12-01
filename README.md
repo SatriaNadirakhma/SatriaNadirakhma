@@ -27,9 +27,8 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 
 ## 🛠️ Programming Skills
 
-## 🛠️ Programming Skills
+![Programming Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,mysql,react,bootstrap,tailwind)
 
-![Programming Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,mysql,react,bootstrap,tailwind&perline=6)
 
 ---
 
@@ -48,6 +47,9 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 ---
 
 ## 💼 Project
+
+- **Front-End Developer** from project K3 in **PT. Siantar Top's K3 Division** (August 2025-October 2025)
+  Prototyping with React Javascript through Kesehatan dan Keselamatan Kerja (K3) in the factory of foods, beverages, goods, etc of PT. Siantar Top
 
 - **UI/UX Designer & Front End Developer** from Project Based Learning **Sistem Tata Tertib** (September 2024–December 2024)  
   Designing and prototyping user interfaces for web applications.
@@ -68,7 +70,9 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 
 - [Instagram (Design Portfolio)](https://instagram.com/nadirakhma.svg)  
 - [Behance](https://www.behance.net/rakhmanadi2005)  
-- [LinkedIn](https://linkedin.com/in/satria-rakhmadani/) <!-- Tambahkan jika ada -->
+- [LinkedIn](https://linkedin.com/in/satria-rakhmadani/)
+- [CV ATS](https://drive.google.com/file/d/1zAVvzbrQ-fI0bBcTFvKi8nK1uH2vj7Rz/view?usp=drive_link)
+- [Portfolio PPT](https://drive.google.com/file/d/1thaKZqXN9Zh3KY36jltZ2qqtJvnWEfBl/view?usp=drive_link)
 - 📧 Email: rakhmadanisatria@gmail.com
 - 📧 Email: nadirakhmacom@gmail.com (For Business)
 
