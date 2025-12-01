@@ -3,14 +3,13 @@
 # Hi There! 👋  
 ### My name is Satria Rakhmadani  
 
-I'm a passionate **Graphic Designer** and **Front-End Developer** with a strong background in digital design. I specialize in creating seamless user experiences and visually appealing interfaces by combining design principles with modern programming technologies.
+I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong background in digital designs. I specialize in creating seamless user experiences and visually appealing interfaces by combining designs with modern programming technologies.
 
 ---
 
 ## 📈 GitHub Stats & Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaNadirakhma&show_icons=true&theme=radical" alt="SatriaNadirakhma's GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaNadirakhma&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
@@ -18,39 +17,32 @@ I'm a passionate **Graphic Designer** and **Front-End Developer** with a strong 
 
 ## 🧑‍💼 Professional Summary
 
-- 3+ years of experience in Graphic Design
-- 1+ years of experience in Front-End Developer
+- 3+ years of experience in Graphic Design (Intermediate)
+- 1+ years of experience in Front-End Developer (Junior)
 - Skilled in translating business requirements into engaging digital products.
-- Adept at collaborating with cross-functional teams to deliver high-quality solutions.
+- Adapt at collaborating with cross-functional teams to deliver high-quality solutions.
 - Strong attention to detail and a commitment to continuous learning.
 
 ---
 
 ## 🛠️ Programming Skills
 
-<p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" aria-label="Bootstrap"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer" aria-label="Tailwind CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"alt="Tailwind CSS" width="40" height="40" /></a>
-</p>
+## 🛠️ Programming Skills
+
+![Programming Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,mysql,react,bootstrap,tailwind&perline=6)
 
 ---
 
 ## 🎨 Design Skills
 
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://inkscape.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40" style="background:#ffffff; border-radius:50%; padding:4px;"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40"/></a>
-  <a href="https://www.framer.com" target="_blank" rel="noopener noreferrer"><img src="https://example.com/framer-logo.svg" alt="Framer" width="40" height="40" /></a>
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Figma & Photoshop" />
+  <a href="https://inkscape.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="48" height="48"/>
+  </a>
+  <a href="https://www.framer.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" width="48" height="48"/>
+  </a>
 </p>
 
 ---
@@ -65,9 +57,10 @@ I'm a passionate **Graphic Designer** and **Front-End Developer** with a strong 
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Champions
 
-- Flutter Basic for Beginners (2025)
+- Flutter Basic for Beginners (2025), BuildWithAngga
+- Finalist UI/UX at IT-FEST Brawijaya University, Malang City, Indonesia
 
 ---
 
