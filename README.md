@@ -27,22 +27,16 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 
 ## 🛠️ Programming Skills
 
-![Programming Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,mysql,react,bootstrap,tailwind)
-
+![Programming Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,dart,mysql,postgres,react,bootstrap,tailwind)
 
 ---
 
 ## 🎨 Design Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Figma & Photoshop" />
-  <a href="https://inkscape.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="48" height="48"/>
-  </a>
-  <a href="https://www.framer.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" width="48" height="48"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=figma,ps" alt="Figma & Photoshop" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="48" height="48" align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" width="48" height="48" align="center">
+<img src="https://img.icons8.com/color/48/affinity-designer.png" alt="Affinity by Canva" width="48" height="48" align="center">
 
 ---
 
@@ -63,6 +57,7 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 
 - Flutter Basic for Beginners (2025), BuildWithAngga
 - Finalist UI/UX at IT-FEST Brawijaya University, Malang City, Indonesia
+- 1st Champions of Student College Poster of Enterpreneur Festival at State Polytechnic of Malang
 
 ---
 
