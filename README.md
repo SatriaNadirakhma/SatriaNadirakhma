@@ -33,10 +33,12 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 
 ## 🎨 Design Skills
 
-<img src="https://skillicons.dev/icons?i=figma,ps" alt="Figma & Photoshop" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="48" height="48" align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" width="48" height="48" align="center">
-<img src="https://img.icons8.com/color/48/affinity-designer.png" alt="Affinity by Canva" width="48" height="48" align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Figma & Photoshop" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" height="48" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" height="48" />
+  <img src="https://img.icons8.com/color/48/affinity-designer.png" alt="Affinity Designer" height="48" />
+</p>
 
 ---
 
