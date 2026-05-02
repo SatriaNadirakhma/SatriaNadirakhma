@@ -56,8 +56,6 @@ I'm passionate as **Graphic Designer** and **Front-End Developer** with a strong
 ---
 
 ## 📜 Certifications & Champions
-
-- Flutter Basic for Beginners (2025), BuildWithAngga
 - Finalist UI/UX at IT-FEST Brawijaya University, Malang City, Indonesia
 - 1st Champions of Student College Poster of Enterpreneur Festival at State Polytechnic of Malang
 
