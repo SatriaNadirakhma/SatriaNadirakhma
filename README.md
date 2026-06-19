@@ -16,14 +16,6 @@
 
 </div>
 
----
-
-I design things that feel considered, then build them to actually work. Drawn to the kind of UI where the design logic is invisible — every spacing decision earns its place, every interaction feels inevitable. Currently studying Information Systems at Polinema, shipping products in between classes, and developing strong opinions about type hierarchy.
-
-The gap between visual design and engineering is where I work best.
-
----
-
 <sub>STACK</sub>
 
 <br>
