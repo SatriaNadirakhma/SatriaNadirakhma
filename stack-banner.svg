@@ -1,0 +1,131 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip">
+      <rect width="800" height="200" rx="16"/>
+    </clipPath>
+    <radialGradient id="go" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E8602C" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#E8602C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gi" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1E40AF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#1E40AF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Base background -->
+  <rect width="800" height="200" fill="#0A1525" rx="16"/>
+  <rect width="800" height="200" rx="16" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Animated gradient orbs -->
+  <g clip-path="url(#clip)">
+    <!-- Orange orb — bottom right, slow drift -->
+    <ellipse cx="660" cy="160" rx="270" ry="205" fill="url(#go)">
+      <animate attributeName="cx" values="660;685;642;660" dur="14s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.33;0.67;1"
+        keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <animate attributeName="cy" values="160;138;178;160" dur="14s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.33;0.67;1"
+        keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </ellipse>
+    <!-- Blue orb — top left -->
+    <ellipse cx="148" cy="52" rx="290" ry="215" fill="url(#gb)">
+      <animate attributeName="cx" values="148;128;168;148" dur="19s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.33;0.67;1"
+        keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <animate attributeName="cy" values="52;70;36;52" dur="19s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.33;0.67;1"
+        keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </ellipse>
+    <!-- Indigo orb — top center -->
+    <ellipse cx="400" cy="-8" rx="240" ry="135" fill="url(#gi)">
+      <animate attributeName="cx" values="400;425;378;400" dur="23s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.33;0.67;1"
+        keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/>
+    </ellipse>
+  </g>
+
+  <!-- Section label -->
+  <text x="400" y="30" text-anchor="middle"
+    fill="rgba(255,255,255,0.25)"
+    font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+    font-size="9" letter-spacing="4" font-weight="500">PRIMARY STACK</text>
+
+  <!-- ─── PILL: React (x=50) ─── -->
+  <g transform="translate(50, 44)">
+    <rect width="160" height="118" rx="18"
+      fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <!-- top shimmer -->
+    <rect x="1" y="1" width="158" height="40" rx="17" fill="rgba(255,255,255,0.04)"/>
+    <!-- React atom -->
+    <g transform="translate(65, 14)" fill="none" stroke="#61DAFB" stroke-width="1.35">
+      <ellipse cx="15" cy="14" rx="14" ry="5.2"/>
+      <ellipse cx="15" cy="14" rx="14" ry="5.2" transform="rotate(60 15 14)"/>
+      <ellipse cx="15" cy="14" rx="14" ry="5.2" transform="rotate(120 15 14)"/>
+      <circle cx="15" cy="14" r="2.4" fill="#61DAFB"/>
+    </g>
+    <text x="80" y="100" text-anchor="middle"
+      fill="rgba(255,255,255,0.80)"
+      font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="13" font-weight="600" letter-spacing="0.2">React</text>
+  </g>
+
+  <!-- ─── PILL: Laravel (x=230) ─── -->
+  <g transform="translate(230, 44)">
+    <rect width="160" height="118" rx="18"
+      fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <rect x="1" y="1" width="158" height="40" rx="17" fill="rgba(255,255,255,0.04)"/>
+    <!-- Laravel badge -->
+    <rect x="56" y="14" width="48" height="44" rx="10" fill="rgba(255,45,32,0.86)"/>
+    <text x="80" y="46" text-anchor="middle"
+      fill="white"
+      font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="24" font-weight="700">L</text>
+    <text x="80" y="100" text-anchor="middle"
+      fill="rgba(255,255,255,0.80)"
+      font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="13" font-weight="600" letter-spacing="0.2">Laravel</text>
+  </g>
+
+  <!-- ─── PILL: JavaScript (x=410) ─── -->
+  <g transform="translate(410, 44)">
+    <rect width="160" height="118" rx="18"
+      fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <rect x="1" y="1" width="158" height="40" rx="17" fill="rgba(255,255,255,0.04)"/>
+    <!-- JS yellow badge -->
+    <rect x="56" y="14" width="48" height="44" rx="10" fill="#F7DF1E"/>
+    <text x="80" y="46" text-anchor="middle"
+      fill="#111111"
+      font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,monospace"
+      font-size="19" font-weight="800">JS</text>
+    <text x="80" y="100" text-anchor="middle"
+      fill="rgba(255,255,255,0.80)"
+      font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="13" font-weight="600" letter-spacing="0.2">JavaScript</text>
+  </g>
+
+  <!-- ─── PILL: Figma (x=590) ─── -->
+  <g transform="translate(590, 44)">
+    <rect width="160" height="118" rx="18"
+      fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+    <rect x="1" y="1" width="158" height="40" rx="17" fill="rgba(255,255,255,0.04)"/>
+    <!-- Figma 5-node mark: 2 col × 3 row, col-2 has 2 nodes -->
+    <!-- width: 10+3+10=23 → center offset: (160-23)/2 = 68.5 → 69 -->
+    <g transform="translate(69, 14)">
+      <rect x="0"  y="0"  width="10" height="10" rx="5" fill="#F24E1E"/>
+      <rect x="13" y="0"  width="10" height="10" rx="5" fill="#FF7262"/>
+      <rect x="0"  y="13" width="10" height="10" rx="5" fill="#A259FF"/>
+      <rect x="13" y="13" width="10" height="10" rx="5" fill="#1ABCFE"/>
+      <rect x="0"  y="26" width="10" height="10" rx="5" fill="#0ACF83"/>
+    </g>
+    <text x="80" y="100" text-anchor="middle"
+      fill="rgba(255,255,255,0.80)"
+      font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="13" font-weight="600" letter-spacing="0.2">Figma</text>
+  </g>
+
+</svg>
