@@ -20,19 +20,9 @@
 
 <sub>STACK</sub>
 
-<br>
-
 <div align="center">
 
-![Stack Banner](https://github.com/SatriaNadirakhma/SatriaNadirakhma/blob/main/stack-banner.svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://skillicons.dev/icons?i=html,css,ts,tailwind,bootstrap,php,mysql,postgres,git,vscode)
+![](https://skillicons.dev/icons?i=html,css,ts,tailwind,bootstrap,laravel,react,php,mysql,postgres,git,vscode)
 
 </div>
 
