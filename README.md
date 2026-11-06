@@ -18,9 +18,9 @@
 
 ---
 
-<sub>STACK</sub>
-
 <div align="center">
+
+<sub>STACK</sub>
 
 ![](https://skillicons.dev/icons?i=html,css,ts,tailwind,bootstrap,laravel,react,php,mysql,postgres,git,vscode)
 
@@ -28,15 +28,14 @@
 
 ---
 
-<sub>GITHUB ACTIVITY</sub>
-
 <div align="center">
+
+<sub>GITHUB ACTIVITY</sub>
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaNadirakhma&theme=dark&hide_border=true&background=0A1525&ring=E8602C&fire=E8602C&currStreakLabel=E8602C&sideLabels=aaaaaa&dates=666666" height="158" alt="GitHub Streak"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=SatriaNadirakhma&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0A1525&text_color=cccccc&title_color=E8602C&icon_color=2563EB" height="158" alt="GitHub Stats"/>
 
 <br><br>
 
